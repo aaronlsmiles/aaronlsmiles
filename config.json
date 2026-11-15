@@ -1,0 +1,42 @@
+{
+  "user": "aaronlsmiles",
+  "feed": "https://studionephele.com/work.json",
+  "featured": [
+    "stilldrawn",
+    "dive-twin",
+    "feel-the-depth",
+    "onewishdubplate",
+    "octopusandthetree",
+    "limntheroom"
+  ],
+  "skip": [
+    "aaronlsmiles",
+    "aaronlsmiles.github.io"
+  ],
+  "frames": {
+    "stilldrawn": {
+      "id": "sd-gen45-act-black-1-f60",
+      "alt": "The action panel at frame 60 of a Runway Gen-4.5 push-in"
+    },
+    "dive-twin": {
+      "id": "dt-page-f105",
+      "alt": "The page at frame 105: the real tank on the left, the dream's heat on the right, and the gap curve along the scrubber running above the line that means the tank has changed shape",
+      "model": "Runway Gen-4.5",
+      "zoom": 0.74,
+      "anchor": 0.3
+    },
+    "feel-the-depth": {
+      "id": "ftd-film-reveal",
+      "alt": "The reveal: a false-colour depth map full of holes, the clear bottle's outline dashed over mostly missing readings",
+      "zoom": 0.8,
+      "anchor": 0.15
+    },
+    "onewishdubplate": {
+      "id": "owd-film-fork",
+      "alt": "A still from the film: the wish \"Let the rain stop.\" on a new branch, the left lane's sky still hatched with ink and the right lane's sky peeled away to bare paper",
+      "model": "Runway Gen-4.5",
+      "zoom": 0.6,
+      "anchor": 0.12
+    }
+  }
+}

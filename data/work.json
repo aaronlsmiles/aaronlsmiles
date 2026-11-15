@@ -1,0 +1,208 @@
+{
+ "version": 1,
+ "site": "https://studionephele.com",
+ "work": [
+  {
+   "id": "check-the-gate",
+   "title": "Check the Gate",
+   "line": "A generated film skips the checks every drawn or filmed one gets on the way to the screen. Can a tool do that checking, and is it any better than asking a model for a review?",
+   "year": 2026,
+   "date": "2026-11-14",
+   "inProgress": true,
+   "url": "https://studionephele.com/#strip-check-the-gate",
+   "frame": null
+  },
+  {
+   "id": "limnthebeat",
+   "title": "Limn the Beat",
+   "line": "How late can a generated partner be before you stop playing with it?",
+   "year": 2026,
+   "date": "2026-11-08",
+   "inProgress": true,
+   "url": "https://studionephele.com/work/limnthebeat",
+   "frame": {
+    "src": "https://studionephele.com/img/ltb-rig-w640.webp",
+    "alt": "The rig, photographed from the side: a phone on a tall stand looks down at a white page taped to a speckled terrazzo desk, a small drawn drummer and drum on the page and a tape measure laid beside it",
+    "credit": "Studio Nephele"
+   }
+  },
+  {
+   "id": "limntheroom",
+   "title": "Limn the Room",
+   "line": "What a regenerated video kept of the room, and what it limned.",
+   "year": 2026,
+   "date": "2026-10-30",
+   "inProgress": true,
+   "url": "https://studionephele.com/work/limntheroom",
+   "frame": {
+    "src": "https://studionephele.com/img/limn-take-glass-w640.webp",
+    "alt": "A real take, filmed on a phone: a white page taped to a speckled terrazzo desk, three small creatures drawn on it in ink, gold paint and cut paper, and a glass dish of water set down below them"
+   }
+  },
+  {
+   "id": "octopusandthetree",
+   "title": "The Octopus & The Tree",
+   "line": "My own verse love story, made into a picture-book film and a book",
+   "year": 2026,
+   "date": "2026-11-03",
+   "inProgress": true,
+   "url": "https://studionephele.com/work/octopusandthetree",
+   "frame": {
+    "src": "https://studionephele.com/img/ott-sea-w640.webp",
+    "alt": "A drawn picture-book scene: an orange octopus with round eyes looks up out of a dark sea at a small sandy island with one leafy tree",
+    "model": "Nano Banana 2.1"
+   }
+  },
+  {
+   "id": "off-the-stencil",
+   "title": "Off the Stencil (working title)",
+   "line": "A made personality built from what only a made being can do",
+   "year": 2026,
+   "date": "2026-11-02",
+   "inProgress": true,
+   "url": "https://studionephele.com/work/off-the-stencil",
+   "frame": {
+    "src": "https://studionephele.com/img/ots-sketch-looks-away-w640.webp",
+    "alt": "An ink-drawn figure seen from behind at a real kitchen desk, pen in hand, drawing the wall that is behind the camera",
+    "model": "Nano Banana 2.1"
+   }
+  },
+  {
+   "id": "untitled-world",
+   "title": "Project Nephele",
+   "line": "A science-fantasy world I first designed as a teenager, now rebuilt in “ink”. Each round of concept art is judged against criteria set before it is made. In progress; the story and anime stay private for now.",
+   "year": 2026,
+   "date": "2026-07-23",
+   "inProgress": true,
+   "url": "https://studionephele.com/#strip-untitled-world",
+   "frame": {
+    "src": "https://studionephele.com/img/world-teaser-w640.webp",
+    "alt": "A canyon split down the middle, a thread of gold far below and a small figure at its edge, seen from behind.",
+    "model": "Gemini 2.5 Flash Image"
+   }
+  },
+  {
+   "id": "drift-where-nothing-should-move",
+   "title": "Drift where nothing should move",
+   "line": "Is the league fair to engines that move? Score only where nothing should.",
+   "year": 2026,
+   "date": "2026-11-06",
+   "inProgress": false,
+   "url": "https://studionephele.com/work/drift-where-nothing-should-move",
+   "frame": {
+    "src": "https://studionephele.com/img/p46-panel-cu-line-2-w640.webp",
+    "alt": "A close-up drawn in line only: a pilot in goggles, grinning",
+    "credit": "StillDrawn, CC BY 4.0, doi:10.5281/zenodo.23072784"
+   }
+  },
+  {
+   "id": "dive-twin",
+   "title": "Dive Twin",
+   "line": "Does a dreamed tank keep the real tank's shape? Scrub a dive against it.",
+   "year": 2026,
+   "date": "2026-11-04",
+   "inProgress": false,
+   "url": "https://studionephele.com/work/dive-twin",
+   "frame": {
+    "src": "https://studionephele.com/img/dt-real-f48-w640.webp",
+    "alt": "The real glass tank, rebuilt from stereo and seen from where the dream's camera is two seconds in: grey walls, a floor and a pale card on the far side",
+    "credit": "UW-TransStereo, CC BY 4.0, doi:10.5281/zenodo.16753748"
+   }
+  },
+  {
+   "id": "onewishdubplate",
+   "title": "One Wish Dubplate",
+   "line": "Every wish granted in one ink drawing, and every wish paid for.",
+   "year": 2026,
+   "date": "2026-11-04",
+   "inProgress": false,
+   "url": "https://studionephele.com/work/onewishdubplate",
+   "frame": {
+    "src": "https://studionephele.com/img/owd-film-rain-w640.webp",
+    "alt": "A still from the film: the wish \"Let it rain.\" played twice over a drawn railway yard, light rain on the left and, on the right, heavy black rain falling into a pool on the track",
+    "credit": "Start frame StillDrawn est-line-2 (Aaron Smiles), CC BY 4.0, doi:10.5281/zenodo.23072784, cropped and animated; clips by Runway Gen-4.5, not CC BY",
+    "model": "Runway Gen-4.5"
+   }
+  },
+  {
+   "id": "feel-the-depth",
+   "title": "Feel the Depth",
+   "line": "Find the bottle by ear: depth from real stereo frames, played as sound.",
+   "year": 2026,
+   "date": "2026-11-02",
+   "inProgress": false,
+   "url": "https://studionephele.com/work/feel-the-depth",
+   "frame": {
+    "src": "https://studionephele.com/img/ftd-film-sweep-brown-w640.webp",
+    "alt": "A still from the film: the frame is hidden, and the pitch trace climbs as the probe moves onto the brown bottle",
+    "credit": "UW-TransStereo, CC BY 4.0, doi:10.5281/zenodo.16753747"
+   }
+  },
+  {
+   "id": "stilldrawn",
+   "title": "StillDrawn",
+   "line": "Does ink survive image-to-video?",
+   "year": 2026,
+   "date": "2026-10-30",
+   "inProgress": false,
+   "url": "https://studionephele.com/work/stilldrawn",
+   "frame": {
+    "src": "https://studionephele.com/img/sd-panel-est-tone-1-w640.webp",
+    "alt": "An inked panel with screen tone, from the StillDrawn set",
+    "credit": "StillDrawn, CC BY 4.0, doi:10.5281/zenodo.23072784"
+   }
+  },
+  {
+   "id": "loopcutter",
+   "title": "loopcutter",
+   "line": "Cuts sample-exact loops from full tracks for live sets that stack many at once. Each length comes from tempo and bar count, rounded once, and every file is checked. Pictured: its beat grid, fitted to a synthetic test loop.",
+   "year": 2026,
+   "date": "2026-10-18",
+   "inProgress": false,
+   "url": "https://github.com/aaronlsmiles/loopcutter",
+   "frame": {
+    "src": "https://studionephele.com/img/loopcutter-beat-grid-w640.webp",
+    "alt": "A beat grid fitted to a synthetic test loop: heavy bar lines, lighter beat lines through the kick drums, and a two-bar loop cut shaded, its start on a bar line"
+   }
+  },
+  {
+   "id": "uw-transstereo",
+   "title": "UW-TransStereo",
+   "line": "A stereo dataset of transparent objects underwater",
+   "year": 2025,
+   "date": "2025",
+   "inProgress": false,
+   "url": "https://studionephele.com/work/uw-transstereo",
+   "frame": {
+    "src": "https://studionephele.com/img/uw-tank-w640.webp",
+    "alt": "The tank set up for the underwater stereo recordings"
+   }
+  },
+  {
+   "id": "teleoperation",
+   "title": "Teleoperation rig",
+   "line": "Haptics and stereo distance for a remote arm",
+   "year": 2022,
+   "date": "2022",
+   "inProgress": false,
+   "url": "https://studionephele.com/work/teleoperation",
+   "frame": {
+    "src": "https://studionephele.com/img/teleop-operator-w640.webp",
+    "alt": "Aaron at the rig: a headset on, a desktop haptic stylus in his hand, and a stereo camera on a stand aimed at two bottles; the laptop shows the measured distance"
+   }
+  },
+  {
+   "id": "sinetic",
+   "title": "Sinetic",
+   "line": "Virtual-reality music",
+   "year": "2011–2017",
+   "date": "2017",
+   "inProgress": false,
+   "url": "https://studionephele.com/work/sinetic",
+   "frame": {
+    "src": "https://studionephele.com/img/sinetic-port-sheet-w640.webp",
+    "alt": "A contact sheet of Sinetic's 2026 recording, a frame every four seconds: the title menu, an atom's editor, the periodic table, the atom changing to an iron cube, the cube carried into the room, and the save dialog"
+   }
+  }
+ ]
+}

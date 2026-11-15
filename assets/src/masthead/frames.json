@@ -1,0 +1,23 @@
+{
+ "panel": "panel.webp",
+ "clip": [
+  {
+   "frame": 4,
+   "file": "f004.webp"
+  },
+  {
+   "frame": 43,
+   "file": "f043.webp"
+  },
+  {
+   "frame": 81,
+   "file": "f081.webp"
+  },
+  {
+   "frame": 120,
+   "file": "f120.webp"
+  }
+ ],
+ "source": "https://studionephele.com/work/stilldrawn",
+ "credit": "StillDrawn, CC BY 4.0, doi:10.5281/zenodo.23072784"
+}
