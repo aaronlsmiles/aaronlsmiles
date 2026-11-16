@@ -55,7 +55,7 @@ Some new computer tools can turn a drawing into a moving video. They don't copy 
 </picture>
 </a>
 
-Redrawn 15 Nov 2026 from the studio's Work list and GitHub.
+Redrawn 16 Nov 2026 from the studio's Work list and GitHub.
 
 ### Research and data
 
@@ -72,10 +72,10 @@ Everything else: [studionephele.com/research](https://studionephele.com/research
 <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/plate-narrow-dark.svg">
 <source media="(max-width: 600px)" srcset="assets/plate-narrow-light.svg">
 <source media="(prefers-color-scheme: dark)" srcset="assets/plate-wide-dark.svg">
-<img src="assets/plate-wide-light.svg" width="100%" alt="The year in ink: 1,832 contributions from 2025-11-16 to 2026-11-15, one dot a day, bigger on busier days. The busiest day was 2026-11-03, with 217.">
+<img src="assets/plate-wide-light.svg" width="100%" alt="The year in ink: 1,880 contributions from 2025-11-16 to 2026-11-16, one dot a day, bigger on busier days. The busiest day was 2026-11-03, with 217.">
 </picture>
 
-1,832 contributions in the last year, 1,308 of them in private repos. One dot a day; the bigger the dot, the busier the day.
+1,880 contributions in the last year, 1,356 of them in private repos. One dot a day; the bigger the dot, the busier the day.
 
 <details>
 <summary>Credits, and how this page is made</summary>

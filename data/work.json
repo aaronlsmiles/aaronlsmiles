@@ -9,6 +9,7 @@
    "year": 2026,
    "date": "2026-11-14",
    "inProgress": true,
+   "track": "film",
    "url": "https://studionephele.com/#strip-check-the-gate",
    "frame": null
   },
@@ -19,6 +20,7 @@
    "year": 2026,
    "date": "2026-11-08",
    "inProgress": true,
+   "track": "sound",
    "url": "https://studionephele.com/work/limnthebeat",
    "frame": {
     "src": "https://studionephele.com/img/ltb-rig-w640.webp",
@@ -33,6 +35,7 @@
    "year": 2026,
    "date": "2026-10-30",
    "inProgress": true,
+   "track": "drawing",
    "url": "https://studionephele.com/work/limntheroom",
    "frame": {
     "src": "https://studionephele.com/img/limn-take-glass-w640.webp",
@@ -46,6 +49,7 @@
    "year": 2026,
    "date": "2026-11-03",
    "inProgress": true,
+   "track": "film",
    "url": "https://studionephele.com/work/octopusandthetree",
    "frame": {
     "src": "https://studionephele.com/img/ott-sea-w640.webp",
@@ -60,6 +64,7 @@
    "year": 2026,
    "date": "2026-11-02",
    "inProgress": true,
+   "track": "film",
    "url": "https://studionephele.com/work/off-the-stencil",
    "frame": {
     "src": "https://studionephele.com/img/ots-sketch-looks-away-w640.webp",
@@ -74,6 +79,7 @@
    "year": 2026,
    "date": "2026-07-23",
    "inProgress": true,
+   "track": "film",
    "url": "https://studionephele.com/#strip-untitled-world",
    "frame": {
     "src": "https://studionephele.com/img/world-teaser-w640.webp",
@@ -88,6 +94,7 @@
    "year": 2026,
    "date": "2026-11-06",
    "inProgress": false,
+   "track": "drawing",
    "url": "https://studionephele.com/work/drift-where-nothing-should-move",
    "frame": {
     "src": "https://studionephele.com/img/p46-panel-cu-line-2-w640.webp",
@@ -102,6 +109,7 @@
    "year": 2026,
    "date": "2026-11-04",
    "inProgress": false,
+   "track": "underwater",
    "url": "https://studionephele.com/work/dive-twin",
    "frame": {
     "src": "https://studionephele.com/img/dt-real-f48-w640.webp",
@@ -116,6 +124,7 @@
    "year": 2026,
    "date": "2026-11-04",
    "inProgress": false,
+   "track": "film",
    "url": "https://studionephele.com/work/onewishdubplate",
    "frame": {
     "src": "https://studionephele.com/img/owd-film-rain-w640.webp",
@@ -131,6 +140,7 @@
    "year": 2026,
    "date": "2026-11-02",
    "inProgress": false,
+   "track": "underwater",
    "url": "https://studionephele.com/work/feel-the-depth",
    "frame": {
     "src": "https://studionephele.com/img/ftd-film-sweep-brown-w640.webp",
@@ -145,6 +155,7 @@
    "year": 2026,
    "date": "2026-10-30",
    "inProgress": false,
+   "track": "drawing",
    "url": "https://studionephele.com/work/stilldrawn",
    "frame": {
     "src": "https://studionephele.com/img/sd-panel-est-tone-1-w640.webp",
@@ -159,6 +170,7 @@
    "year": 2026,
    "date": "2026-10-18",
    "inProgress": false,
+   "track": "sound",
    "url": "https://github.com/aaronlsmiles/loopcutter",
    "frame": {
     "src": "https://studionephele.com/img/loopcutter-beat-grid-w640.webp",
@@ -172,6 +184,7 @@
    "year": 2025,
    "date": "2025",
    "inProgress": false,
+   "track": "underwater",
    "url": "https://studionephele.com/work/uw-transstereo",
    "frame": {
     "src": "https://studionephele.com/img/uw-tank-w640.webp",
@@ -185,6 +198,7 @@
    "year": 2022,
    "date": "2022",
    "inProgress": false,
+   "track": "underwater",
    "url": "https://studionephele.com/work/teleoperation",
    "frame": {
     "src": "https://studionephele.com/img/teleop-operator-w640.webp",
@@ -198,6 +212,7 @@
    "year": "2011–2017",
    "date": "2017",
    "inProgress": false,
+   "track": "sound",
    "url": "https://studionephele.com/work/sinetic",
    "frame": {
     "src": "https://studionephele.com/img/sinetic-port-sheet-w640.webp",
