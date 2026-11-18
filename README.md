@@ -51,11 +51,11 @@ Some new computer tools can turn a drawing into a moving video. They don't copy 
 <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/desk-narrow-dark.svg">
 <source media="(max-width: 600px)" srcset="assets/desk-narrow-light.svg">
 <source media="(prefers-color-scheme: dark)" srcset="assets/desk-wide-dark.svg">
-<img src="assets/desk-wide-light.svg" width="100%" alt="On the desk. In progress: Check the Gate (since 14 Nov); Limn the Beat (since 8 Nov); Limn the Room (since 30 Oct); The Octopus &amp; The Tree (since 3 Nov); Off the Stencil (working title) (since 2 Nov); Project Nephele (since 23 Jul). Pushed lately: limntheroom (17 Nov); stilldrawn (11 Nov); blindpanel (9 Nov); stilldrawn-explorer (6 Nov); divetwin (4 Nov); onewishdubplate (4 Nov).">
+<img src="assets/desk-wide-light.svg" width="100%" alt="On the desk. In progress: Limn the Beat (since 8 Nov); Limn the Room (since 30 Oct); The Octopus &amp; The Tree (since 3 Nov); Off the Stencil (working title) (since 2 Nov); Project Nephele (since 23 Jul). Pushed lately: limntheroom (18 Nov); stilldrawn (18 Nov); loopcutter (18 Nov); blindpanel (9 Nov); stilldrawn-explorer (6 Nov); divetwin (4 Nov).">
 </picture>
 </a>
 
-Redrawn 17 Nov 2026 from the studio's Work list and GitHub.
+Redrawn 18 Nov 2026 from the studio's Work list and GitHub.
 
 ### Research and data
 
@@ -72,10 +72,10 @@ Everything else: [studionephele.com/research](https://studionephele.com/research
 <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/plate-narrow-dark.svg">
 <source media="(max-width: 600px)" srcset="assets/plate-narrow-light.svg">
 <source media="(prefers-color-scheme: dark)" srcset="assets/plate-wide-dark.svg">
-<img src="assets/plate-wide-light.svg" width="100%" alt="The year in ink: 1,919 contributions from 2025-11-16 to 2026-11-17, one dot a day, bigger on busier days. The busiest day was 2026-11-03, with 217.">
+<img src="assets/plate-wide-light.svg" width="100%" alt="The year in ink: 1,997 contributions from 2025-11-16 to 2026-11-18, one dot a day, bigger on busier days. The busiest day was 2026-11-03, with 217.">
 </picture>
 
-1,919 contributions in the last year, 1,393 of them in private repos. One dot a day; the bigger the dot, the busier the day.
+1,997 contributions in the last year, 1,462 of them in private repos. One dot a day; the bigger the dot, the busier the day.
 
 <details>
 <summary>Credits, and how this page is made</summary>

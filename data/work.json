@@ -3,17 +3,6 @@
  "site": "https://studionephele.com",
  "work": [
   {
-   "id": "check-the-gate",
-   "title": "Check the Gate",
-   "line": "A generated film skips the checks every drawn or filmed one gets on the way to the screen. Can a tool do that checking, and is it any better than asking a model for a review?",
-   "year": 2026,
-   "date": "2026-11-14",
-   "inProgress": true,
-   "track": "film",
-   "url": "https://studionephele.com/#strip-check-the-gate",
-   "frame": null
-  },
-  {
    "id": "limnthebeat",
    "title": "Limn the Beat",
    "line": "How late can a generated partner be before you stop playing with it?",
