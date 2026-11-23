@@ -63,6 +63,22 @@
    }
   },
   {
+   "id": "herebeink",
+   "title": "Here Be Ink",
+   "line": "Photograph where the camera measured, ink where a model imagined.",
+   "year": 2026,
+   "date": "2026-11-22",
+   "inProgress": false,
+   "track": "worlds",
+   "url": "https://studionephele.com/work/herebeink",
+   "frame": {
+    "src": "https://studionephele.com/img/hbi-film-penline-w640.webp",
+    "alt": "A still from the film: a pen line drawn across the floor of a doorway. The room's walls either side are a soft photograph; past the line, the doorway is drawn in cross-hatched ink on paper",
+    "credit": "Measured half: Aaron Smiles's own capture. Imagined half generated with World Labs Marble (marble-1.1-plus), re-rendered in ink by the page",
+    "model": "World Labs Marble (marble-1.1-plus)"
+   }
+  },
+  {
    "id": "limntheroom",
    "title": "Limn the Room",
    "line": "What a regenerated video kept of the room, and what it limned.",
